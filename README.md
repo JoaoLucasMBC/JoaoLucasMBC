@@ -27,7 +27,7 @@
 
 <div>
   <h2 align="left"> 🔭 I'm currently working on: </h2>
-  <a href="https://github.com/JoaoLucasMBC/aquar.io">
+  <a href="https://github.com/JoaoLucasMBC/chess-sytem-java">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoLucasMBC&repo=chess-system-java&theme=dracula&show_owner=true"/>
 <div>
   
