@@ -27,8 +27,8 @@
 
 <div>
   <h2 align="left"> 🔭 I'm currently working on: </h2>
-  <a href="https://github.com/JoaoLucasMBC/chess-system-java">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoLucasMBC&repo=chess-system-java&theme=dracula&show_owner=true"/>
+  <a href="https://github.com/JoaoLucasMBC/live-camera-effects">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoLucasMBC&repo=live-camera-effects&theme=dracula&show_owner=true"/>
 <div>
   
 <br>
@@ -36,7 +36,7 @@
   My Statistics
 </h2>
 <div align="center">
-  <a href="https://github.com/ArthurCisotto">
+  <a href="https://github.com/JoaoLucasMBC">
   <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoLucasMBC&theme=dracula"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasMBC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasMBC&layout=compact&langs_count=16&theme=dracula"/>
